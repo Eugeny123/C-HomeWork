@@ -1,0 +1,15 @@
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.csproj.AssemblyReference.cache
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.GeneratedMSBuildEditorConfig.editorconfig
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.AssemblyInfoInputs.cache
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.AssemblyInfo.cs
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.csproj.CoreCompileInputs.cache
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/bin/Debug/net6.0/C#HomeWork_04
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/bin/Debug/net6.0/C#HomeWork_04.deps.json
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/bin/Debug/net6.0/C#HomeWork_04.runtimeconfig.json
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/bin/Debug/net6.0/C#HomeWork_04.dll
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/bin/Debug/net6.0/ref/C#HomeWork_04.dll
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/bin/Debug/net6.0/C#HomeWork_04.pdb
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.dll
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/ref/C#HomeWork_04.dll
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.pdb
+/home/cactus/Рабочий стол/GeekBrains/HomeWork/C#HomeWorks/C#HomeWork_04/obj/Debug/net6.0/C#HomeWork_04.genruntimeconfig.cache
