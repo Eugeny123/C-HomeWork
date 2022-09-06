@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eugeny\\Desktop\\GeekBrains\\HomeWork\\C#HomeWorks\\C#HomeWork_05\\C#HomeWork_05.csproj",
-      "projectName": "C#HomeWork_05",
-      "projectPath": "C:\\Users\\Eugeny\\Desktop\\GeekBrains\\HomeWork\\C#HomeWorks\\C#HomeWork_05\\C#HomeWork_05.csproj",
+      "projectUniqueName": "C:\\Users\\Eugeny\\Desktop\\GeekBrains\\HomeWork\\C#HomeWorks\\C#HomeWork_06\\C#HomeWork_06.csproj",
+      "projectName": "C#HomeWork_06",
+      "projectPath": "C:\\Users\\Eugeny\\Desktop\\GeekBrains\\HomeWork\\C#HomeWorks\\C#HomeWork_06\\C#HomeWork_06.csproj",
       "packagesPath": "C:\\Users\\Eugeny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eugeny\\Desktop\\GeekBrains\\HomeWork\\C#HomeWorks\\C#HomeWork_05\\obj\\",
+      "outputPath": "C:\\Users\\Eugeny\\Desktop\\GeekBrains\\HomeWork\\C#HomeWorks\\C#HomeWork_06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eugeny\\AppData\\Roaming\\NuGet\\NuGet.Config"
