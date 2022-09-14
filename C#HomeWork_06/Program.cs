@@ -17,8 +17,8 @@ void Numbers (int size){            // m = size array
 Console.WriteLine("enter number size: ");
 int num = Convert.ToInt32(Console.ReadLine());
 Numbers(num);
-
 */
+
 
 
 
