@@ -145,7 +145,7 @@ SmallValue(mass);
 
 
 
-
+/*
 // Задача 62. Напишите программу, которая заполнит 
 // спирально массив 4 на 4.
 // Например, на выходе получается вот такой массив:
@@ -207,7 +207,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 int[,] Array = New2dArray(n);
 WriteArray(Array);
 
-
+*/
 
 
 
