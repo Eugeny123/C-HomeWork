@@ -79,7 +79,7 @@ PrintData("the result of addition = ", result.ToString());
 
 
 
-
+/*
 // Задача 68: Напишите программу вычисления функции Аккермана
 // с помощью рекурсии. Даны два неотрицательных числа m и n.
 // m = 2, n = 3 -> A(m,n) = 29
@@ -116,3 +116,4 @@ int numM = ReadData("enter number M: ");
 int numN = ReadData("enter number N: ");
 int result = FunctionAkkerman(numM, numN);
 PrintData("Answer is - ", result.ToString());
+*/
